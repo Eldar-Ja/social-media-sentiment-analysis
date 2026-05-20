@@ -27,9 +27,17 @@ Evaluation metrics included:
 - Confusion Matrix
 
 ## Visualizations
+
 The repository includes:
+
 - Sentiment distribution plot
 - Confusion matrix visualization
+
+### Sentiment Distribution
+![](./sentiment_distribution.png)
+
+### Confusion Matrix
+![](./confusion_matrix.png)
 
 ## Tools and Libraries
 - Python

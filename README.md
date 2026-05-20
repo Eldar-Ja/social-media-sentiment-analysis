@@ -26,6 +26,18 @@ Evaluation metrics included:
 - F1-score
 - Confusion Matrix
 
+## Results Interpretation
+
+The Logistic Regression model achieved approximately 76% classification accuracy on the airline tweet sentiment dataset.
+
+The model showed the strongest performance for the negative sentiment class, achieving a high recall score. This is likely due to the larger number of negative tweets in the dataset and the stronger emotional language typically used in negative comments.
+
+Performance for neutral and positive classes was comparatively lower. Neutral tweets are generally more ambiguous and harder to classify because they often contain less explicit emotional content.
+
+The confusion matrix indicates that some neutral and positive tweets were misclassified as negative. This behavior is common in sentiment analysis tasks involving imbalanced social media datasets.
+
+Overall, the results demonstrate that TF-IDF combined with Logistic Regression provides a strong baseline approach for social media sentiment classification.
+
 ## Visualizations
 
 The repository includes:

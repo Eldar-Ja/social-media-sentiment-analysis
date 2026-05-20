@@ -45,10 +45,4 @@ social-media-sentiment-analysis/
 ├── sentiment_analysis.ipynb
 ├── confusion_matrix.png
 └── sentiment_distribution.png
-## Visualizations
 
-### Sentiment Distribution
-![Sentiment Distribution](sentiment_distribution.png)
-
-### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
